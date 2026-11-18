@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Info Gathering/OSINT/Exiv2.md",
+                "file": "Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exiv2"
+              "title": "Terminology"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -155,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,34 +169,34 @@
   },
   "active": "28dbf540003bbea5",
   "lastOpenFiles": [
-    "Tools/RevEng/Strace.md",
+    "SQLi.md",
+    "Terminology.md",
+    "psexec.md",
+    "Process Hacker.md",
+    "Teams/Red Team/AD/Persistence AD.md",
+    "Teams/Red Team/AD/Lateral Movement and Pivoting.md",
+    "Teams/Red Team/AD/Exploiting AD.md",
+    "Teams/Red Team/AD/Enumerating AD.md",
+    "Teams/Red Team/AD/Breaching AD.md",
+    "Teams/Red Team/C2.md",
+    "Teams/Red Team/Data Exfiltration.md",
+    "Teams/Blue team/Yara.md",
+    "Teams/Blue team/Tools.md",
+    "Teams/Blue team/Main areas.md",
+    "Network Security/Reconnaissance.md",
+    "Network Security/Protocols And Servers.md",
+    "Network Security/Protocol Defense.md",
+    "Network Security/Protocol Attack.md",
+    "Enum4Linux.md",
+    "Null Byte.md",
     "Tools/Info Gathering/OSINT/Exiv2.md",
+    "Tools/RevEng/Strace.md",
     "Tools/RevEng/Gdb.md",
     "Tools/RevEng/Ghidra.md",
     "Tools/Untitled 1.md",
     "Tools/RevEng",
     "Tools/Brute Forcing/Stegseek.md",
-    "Tools/Brute Forcing/John The Ripper.md",
-    "Tools/Web/Sqlmap.md",
-    "Tools/Web/Padre.md",
     "Tools/Web",
-    "Tools/Untitled.md",
-    "Teams/Red Team/AD/Persistence AD.md",
-    "Terminology.md",
-    "().md",
-    "Teams/Red Team/AD/Exploiting AD.md",
-    "Tools/Brute Forcing/Hashcat.md",
-    "Tools/Info Gathering/Enumeration/Nmap.md",
-    "Teams/Red Team/Evasion/Firewalls.md",
-    "Teams/Red Team/AD/Breaching AD.md",
-    "Methodology/Privilege Escalation - Linux.md",
-    "Methodology/Privilege Escalation - Windows.md",
-    "Methodology/Authentication Bypass.md",
-    "Methodology/Content Discovery.md",
-    "Methodology/Exploitation.md",
-    "Methodology/Shells.md",
-    "Methodology/Subdomain Enumeration.md",
-    "Network Security/Reconnaissance.md",
     "Images/Pasted image 20250224113234.png",
     "Pasted image 20250224113143.png",
     "Pasted image 20250224112848.png",

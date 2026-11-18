@@ -5,4 +5,3 @@
 - **Certificate Template** — a collection of settings and policies that defines the contents of a certificate issued by an enterprise CA
 - **CSR** (Certificate Signing Request) — a message sent to a CA to request a signed certificate
 - **EKU** (Extended/Enhanced Key Usage) — one or more object identifiers (OIDs) that define how a certificate can be used
-- **Rotate** — A blue team term, meaning to reset the password of an account.
